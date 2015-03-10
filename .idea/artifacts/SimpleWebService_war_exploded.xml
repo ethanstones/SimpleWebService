@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="SimpleWebService:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/SimpleWebService_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="SimpleWebService/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="SimpleWebService" />
+        </element>
+      </element>
+      <element id="directory" name="Resources" />
+    </root>
+  </artifact>
+</component>
